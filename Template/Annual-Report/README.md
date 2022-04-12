@@ -40,18 +40,17 @@
 # 文件树
 
 ├── figures # 里面放图片
-├── sections # 按章节单独文件写文章
 ├── style
 │   ├── myreport.sty # 模板定义文件
 ├── main.tex # 加载模板
-├── paper.tex # 不按章节单独文件写文章
+├── content.tex # 不按章节单独文件写文章
 ├── ref.bib # 参考文献
 ```
 
 你只需要做如下几步：
 
 1. 打开 `main.tex`，修改 title, author, advisor, data 信息；如果不需要附录，则注释掉。
-2. 打开 `paper.tex`，写文章咯；如果想分 章节文件写，just do it.
+2. 打开 `content.tex`，写文章咯。
 3. 如果需要额外的 package，既可以添加到 `main.text` 里，也可以添加到 `myreport.sty` 里。
 4. 如果想修改模板，同样 just do it.
 
@@ -59,4 +58,4 @@
 
 ## Latex Treasures
 
-to do
+[点击](https://github.com/yzy1996/Latex/tree/main/Treasure)打开宝库
