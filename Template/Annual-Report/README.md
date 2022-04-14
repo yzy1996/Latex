@@ -42,8 +42,9 @@
 ├── figures # 里面放图片
 ├── style
 │   ├── myreport.sty # 模板定义文件
+├── appendix.tex # 单独文件写附录
+├── content.tex # 单独文件写文章
 ├── main.tex # 加载模板
-├── content.tex # 不按章节单独文件写文章
 ├── ref.bib # 参考文献
 ```
 
@@ -51,8 +52,9 @@
 
 1. 打开 `main.tex`，修改 title, author, advisor, data 信息；如果不需要附录，则注释掉。
 2. 打开 `content.tex`，写文章咯。
-3. 如果需要额外的 package，既可以添加到 `main.text` 里，也可以添加到 `myreport.sty` 里。
-4. 如果想修改模板，同样 just do it.
+3. 打开 `appendix.tex`，写附录咯，不要就删掉。
+4. 如果需要额外的 package，既可以添加到 `main.text` 里，也可以添加到 `myreport.sty` 里。
+5. 如果想修改模板，同样 just do it.
 
 
 
