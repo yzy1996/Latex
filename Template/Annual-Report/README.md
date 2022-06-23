@@ -50,6 +50,7 @@
 
 你只需要做如下几步：
 
+0. 下载 `Report Template.zip` 文件并直接添加到 overleaf 里。
 1. 打开 `main.tex`，修改 title, author, advisor, data 信息；如果不需要附录，则注释掉。
 2. 打开 `content.tex`，写文章咯。
 3. 打开 `appendix.tex`，写附录咯，不要就删掉。
