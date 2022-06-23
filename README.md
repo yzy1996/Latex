@@ -1,9 +1,8 @@
 # Latex
 
-- Template 
+- [Template](./Template)
 
-- Treasure
-
+- [Treasure](./Treasure)
 
 
 [Learn to use Latex. (overleaf document)](https://www.overleaf.com/learn) 
