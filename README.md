@@ -13,7 +13,6 @@
 
 
 
-
 **Latex Materials**
 
 [Learn to use Latex. (overleaf document)](https://www.overleaf.com/learn) 
@@ -22,3 +21,12 @@
 
 
 
+
+
+
+
+https://github.com/xinychen/awesome-latex-drawing
+
+https://github.com/xinychen/latex-cookbook
+
+https://github.com/guanyingc/latex_paper_writing_tips
