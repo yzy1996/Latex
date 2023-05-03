@@ -30,3 +30,5 @@ https://github.com/xinychen/awesome-latex-drawing
 https://github.com/xinychen/latex-cookbook
 
 https://github.com/guanyingc/latex_paper_writing_tips
+
+https://www3.cs.stonybrook.edu/~cvl/content/others/m_cvl_latex_guide.pdf
